@@ -1,4 +1,2 @@
-# Hito6-PMMia-MC
-# Hito7_MMia_RouterII_MateoCananles
-# Hito7_MMia_RouterII_MateoCananles
 # Hito8_PMMia_JWT_MateoCanales
+# Gracias a todo el equipo de Desafío latam por habilitar la extensión en la fecha de entrega.
